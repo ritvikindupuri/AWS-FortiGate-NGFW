@@ -59,4 +59,3 @@ A secure AWS VPC was designed and deployed with a FortiGate-VM (NGFW) acting as 
 
 ---
 
-## Repository Structure
